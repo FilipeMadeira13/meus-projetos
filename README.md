@@ -14,3 +14,17 @@ Bem-vindo ao meu portfólio de programação! Aqui você encontrará alguns dos 
 ---
 
 # meus-projetos
+
+---
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13&show_icons=true&theme=radical)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMadeira13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📫 Contato
+- **E-mail:** cfilipemadeira@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a/
+
+Obrigado pela visita! Fique à vontade para explorar os projetos e entrar em contato. 😊
