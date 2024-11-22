@@ -9,7 +9,7 @@ Bem-vindo ao meu portfólio de programação! Aqui você encontrará alguns dos 
 ## 🛠️ Tecnologias que Domínio
 - **Linguagens:** Python
 - **Banco de Dados:** MySQL
-- **Ferramentas:** Git Postman, VS Code
+- **Ferramentas:** Git, Postman, VS Code
 
 ---
 
